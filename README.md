@@ -1,2 +1,2 @@
-# 360VR
-360  全景VR 
+#增量差异生成diff文件 并下载更新jsbundle
+增量差异生成diff文件 并下载更新jsbundle
